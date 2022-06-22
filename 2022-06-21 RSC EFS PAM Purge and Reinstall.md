@@ -2,7 +2,9 @@ Connect to it at:
 ec2-18-188-191-176.us-east-2.compute.amazonaws.com:3939
 
 jen (jen123) <- user that is in >16 groups
+
 julie (julie123)
+
 john (john123)
 
 RSC Cheat Sheet: 
