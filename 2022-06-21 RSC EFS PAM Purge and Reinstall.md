@@ -1,11 +1,9 @@
 Connect to it at: 
 ec2-18-188-191-176.us-east-2.compute.amazonaws.com:3939
 
-jen (jen123)
+jen (jen123) <- user that is in >16 groups
 julie (julie123)
 john (john123)
-
-Publishing is to: http://lisa-training-rsc-lbv2-1447635153.us-east-2.elb.amazonaws.com (very important! port 443 errors without the http because it defaults to https)
 
 RSC Cheat Sheet: 
 ```
